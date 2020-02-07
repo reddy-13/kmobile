@@ -1,0 +1,2 @@
+curl -i -X GET \
+ "https://graph.facebook.com/v5.0/1021566121357637/feed?fields=message%2Cfull_picture%2Cpermalink_url&access_token=EAAXZC2ZBfy9bsBALxZAwR4ZAx8qI8ufST53x6I2nXMCOZBNI9tWSv7Q3D2nWltK3pTGTpt0IxIOkERzA9LLTwZAQqvPn8sbrY2nayZBKw7QZBxryNblSvjAqjqQta6ZBy1PppEZBEJWM7fEnhyTdDxY5KI7Pn5d0JdKlat32WWzqvV98C2T5ETOPiA942mvE3N3pgZD"
